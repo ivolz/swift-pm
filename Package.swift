@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "Approov",
             url: "https://tst-fo.critical.blue/Approov.xcframework.zip",
-            checksum: "d8887651bc0685fc845db624da62c503bebab4a9"
+            checksum: "36f93031289a4d88b9a1bda98118c7c80a1b764aea4b0e0c1f8bbc291d12fbc1"
             ),
     ]
 )
