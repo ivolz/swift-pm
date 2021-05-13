@@ -17,7 +17,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "Approov",
-            url: "https://github.com/ivolz/swift-pm/releases/download/2.6.1/Approov.xcframework.zip",
+            url: "https://tst-fo.critical.blue/Approov.xcframework.zip",
             checksum: "d8887651bc0685fc845db624da62c503bebab4a9"
             ),
     ]
